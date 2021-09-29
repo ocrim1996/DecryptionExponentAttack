@@ -89,3 +89,8 @@ I risultati ottenuti sono i seguenti:
 
 Possiamo dunque notare come l’algoritmo sia molto efficiente nel trovare un fattore non banale del modulo **n** di RSA se si conosce l’esponente privato **d**, riuscendo a mantenere sempre un numero di iterazioni medio minore o uguale a 2. Infatti in questo test di esempio il risultato ottenuto è di 1.47, però anche effettuando altri test con moduli di dimensione diversa si ottiene sempre un numero medio di iterazioni minore o uguale a 2.
 
+## Run
+To run the project:
+```
+python3 DecryptionExponentAttack.py
+```
