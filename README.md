@@ -42,7 +42,7 @@ def set_decrption_exponential_attack():
 	'''some code'''
 ```
 
-All’interno della funzione che esegue l’algoritmo dell’attacco al *decryption exponent* vengono utilizzati alcuni metodi che erano stati definiti nel modulo **`PublicKeyCryptography.py`** per l’esercizio 3.1. Questi metodi sono i seguenti:
+All’interno della funzione che esegue l’algoritmo dell’attacco al *decryption exponent* vengono utilizzati alcuni metodi che erano stati definiti nel modulo **`PublicKeyCryptography.py`**. Questi metodi sono i seguenti:
 
 - `extended_euclidean(x, n)`
 - `fast_modular_exponentiation(x, m, n)`
